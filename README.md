@@ -5,6 +5,9 @@ Please find the main documentation on https://getmural.me.
 ## Firmware
 
 The microcontroller firmware and all related libraries are located in the [firmware](firmware) directory.
+To build using the Arduino IDE, open the sketch at
+`firmware/mural/mural.ino` and ensure the required libraries are
+available in your Arduino libraries folder.
 
 # Additional Information
 
