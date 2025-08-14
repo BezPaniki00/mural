@@ -2,6 +2,10 @@
 
 Please find the main documentation on https://getmural.me. 
 
+## Firmware
+
+The microcontroller firmware and all related libraries are located in the [firmware](firmware) directory.
+
 # Additional Information
 
 ## Positioning of the Drawing on the Wall
